@@ -1,1 +1,1 @@
-[scenario][E:\Term10\Software Engineering Laboratory\Forum\SCENARIO.md]
+[scenario][https://github.com/MSHAYAN75/Forum/blob/main/SCENARIO.md]
