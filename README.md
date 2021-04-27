@@ -1,1 +1,1 @@
-[scenario][SCENARIO.md]
+[scenario][SCENARIO]
