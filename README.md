@@ -61,7 +61,7 @@ Our goal in creating such a website is to help increase the knowledge and awaren
 
 ## Developers  
 
-**project code:** ## G32
+**project code: G32**  
 
 First Name | Last Name | Student ID | GitHub ID
 ------------ | ------------- | ------------- | -------------
