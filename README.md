@@ -14,35 +14,34 @@ Our goal in creating such a website is to help increase the knowledge and awaren
 
 ## Project requirements  :
 
-‍‍` در این بخش باید نیازمندی های functional و non-functional پروژه ذکر شود. از هر دسته تنها ۳ نیازمندی اصلی ذکر شود و مابقی در فایل مربوطه ذکر شود.` 
+‍
 
-### نیازمندی های Functional:
+###  Functional requirements:
 
-+ نیازمندی ...
++ The website must be able to create a new account
 
-+ نیازمندی ...
++ The users must be able to create and edit their own post
 
-+ نیازمندی ...
++ admin and users must be able to create topics
 
-### نیازمندی های Non-Functional:
+###  Non-Functional requirements:
 
-+ نیازمندی ...
++ Security
 
-+ نیازمندی ...
++ Usability
 
-+ نیازمندی ...
++ Maintainability
 
-## مستندات پروژه:
+##Project documentation:
 
-`در این بخش مجموعه لینک های ارجاع به مستندات پروژه (فایلهای markdown) قرار داده می شود`
 
-### نیاز سنجی و سناریو پروژه:
+### Project Needs assessment and scenario:
 
-+ سناریو های  پروژه (Project Scenario) ‍‍`لینک`
++ [scenario](https://github.com/MSHAYAN75/Forum/blob/main/documentation/SCENARIO.md)
 
 + نیاز سنجی پروژه (Project Needs assessment)  `لینک`
 
-### تحلیل و طراحی پروژه:
+### Project analysis and design:
 
 + یوزکیس دیاگرام (Usecase Diagram) `لینک`
 
@@ -54,37 +53,23 @@ Our goal in creating such a website is to help increase the knowledge and awaren
 
 + لینک به دیگر مستندات تحلیل و طراحی
 
-### مدیریت پروژه:
+### Project management:
 
 + مستندات فاز بندی پروژه (Project Phasing documentation)  `لینک`
 
 + مستندات زمانبندی پروژه (Project Scheduling documentation) `لینک`
 
-## اعضاء پروژه 
+## Developers  
 
-‍‍` در این بخش کد پروژه و اعضاء پروژه به همراه مسئولیت ها و آیدی ذکر شود.`
-
-**کد پروژه:** `G##`
-
-| نام و نام خانوادگی | مسئولیت  | آیدی |
-|--------------------|----------|------|
-|                    |          |      |
-|                    |          |      |
-|                    |          |      |
-
----
-
-.این فایل را می‌توانید دانلود کنید و متن های مورد نیاز را جایگزین کنید. 
-
-[لینک دانلود](https://gitlab.com/mostaffa/software-engineering-lab/-/raw/master/HOME-README.md?inline=false)
-
-
-
-[scenario](https://github.com/MSHAYAN75/Forum/blob/main/SCENARIO.md)
-
-# Developers
+**project code:** ##G32
 
 First Name | Last Name | Student ID | GitHub ID
 ------------ | ------------- | ------------- | -------------
 Mohammad Hosein | Shaban | 95149042 | @MSHAYAN75
-Amir Hasan | Saeidi | 95149039 | @asaeidi97
+Amirhassan | Saeidi | 95149039 | @asaeidi97
+
+
+
+
+
+
