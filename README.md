@@ -10,7 +10,7 @@ Our goal in creating such a website is to help increase the knowledge and awaren
 
 + **programming languages:** python, django, html & css, bootstrap
 
-+ ** Database:** SQL
++ **Database:** SQL
 
 ## Project requirements  :
 
@@ -32,7 +32,7 @@ Our goal in creating such a website is to help increase the knowledge and awaren
 
 + Maintainability
 
-##Project documentation:
+## Project documentation:
 
 
 ### Project Needs assessment and scenario:
@@ -61,7 +61,7 @@ Our goal in creating such a website is to help increase the knowledge and awaren
 
 ## Developers  
 
-**project code:** ##G32
+**project code:** ## G32
 
 First Name | Last Name | Student ID | GitHub ID
 ------------ | ------------- | ------------- | -------------
