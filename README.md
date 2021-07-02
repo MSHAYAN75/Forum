@@ -47,7 +47,7 @@ Our goal in creating such a website is to help increase the knowledge and awaren
 
 + [Class Diagram1](https://github.com/MSHAYAN75/Forum/blob/main/documentation/images/Class%20Diagram1.png)
 
-+ [Class Diagram1](https://github.com/MSHAYAN75/Forum/blob/main/documentation/images/Class%20Diagram2.png)
++ [Class Diagram2](https://github.com/MSHAYAN75/Forum/blob/main/documentation/images/Class%20Diagram2.png)
 
 ### Project management:
 
