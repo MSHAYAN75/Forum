@@ -43,13 +43,11 @@ Our goal in creating such a website is to help increase the knowledge and awaren
 
 ### Project analysis and design:
 
-+ یوزکیس دیاگرام (Usecase Diagram) `لینک`
++ [Usecase Diagram]()
 
-+ اکتیویتی دیاگرام ها (Activity Diagram)`لینک`
++ [Class Diagram]()
 
-+ کلاس دیاگرام ها (Class Diagram)`لینک`
-
-+ سیکوئنس دیاگرام ها (Sequence Diagram)`لینک`
++ Sequence Diagram
 
 + لینک به دیگر مستندات تحلیل و طراحی
 
