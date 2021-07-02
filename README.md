@@ -39,25 +39,17 @@ Our goal in creating such a website is to help increase the knowledge and awaren
 
 + [scenario](https://github.com/MSHAYAN75/Forum/blob/main/documentation/SCENARIO.md)
 
-+ نیاز سنجی پروژه (Project Needs assessment)  `لینک`
-
 ### Project analysis and design:
 
 + [Usecase Diagram](https://github.com/MSHAYAN75/Forum/blob/main/documentation/images/Use%20case%20Diagram.png)
+
++ [Draft of The Class Diagram](https://github.com/MSHAYAN75/Forum/blob/main/documentation/images/Draft%20of%20The%20Class%20diagram%20.png)
 
 + [Class Diagram1](https://github.com/MSHAYAN75/Forum/blob/main/documentation/images/Class%20Diagram1.png)
 
 + [Class Diagram1](https://github.com/MSHAYAN75/Forum/blob/main/documentation/images/Class%20Diagram2.png)
 
-+ Sequence Diagram
-
-+ لینک به دیگر مستندات تحلیل و طراحی
-
 ### Project management:
-
-+ مستندات فاز بندی پروژه (Project Phasing documentation)  `لینک`
-
-+ مستندات زمانبندی پروژه (Project Scheduling documentation) `لینک`
 
 ## Developers  
 
