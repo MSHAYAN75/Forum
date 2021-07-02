@@ -43,9 +43,11 @@ Our goal in creating such a website is to help increase the knowledge and awaren
 
 ### Project analysis and design:
 
-+ [Usecase Diagram]()
++ [Usecase Diagram](https://github.com/MSHAYAN75/Forum/blob/main/documentation/images/Use%20case%20Diagram.png)
 
-+ [Class Diagram]()
++ [Class Diagram1](https://github.com/MSHAYAN75/Forum/blob/main/documentation/images/Class%20Diagram1.png)
+
++ [Class Diagram1](https://github.com/MSHAYAN75/Forum/blob/main/documentation/images/Class%20Diagram2.png)
 
 + Sequence Diagram
 
